@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "811860777903",
+    "firebase_url": "https://login-app-398f0.firebaseio.com",
+    "project_id": "login-app-398f0",
+    "storage_bucket": "login-app-398f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811860777903:android:ecfff148fb4d9497",
+        "android_client_info": {
+          "package_name": "com.example.kapil.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811860777903-qrkipij7debgkdli0rs2jui3t31bhcsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kapil.loginapp",
+            "certificate_hash": "85b0030a8c9d601d7f01537402acac58a6ac59e3"
+          }
+        },
+        {
+          "client_id": "811860777903-6vvs4maqb67qeakribu7dg44ian9pr5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRwF5lYsuA22cwj-jxperBvoYxKRwzA8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811860777903-6vvs4maqb67qeakribu7dg44ian9pr5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
